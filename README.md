@@ -1,6 +1,6 @@
 Hello! Hola! Доброго вечора!
 
-I am participating in the Bootcamp de Programación y AWS Clou with Factoria F5
+I am participating in the Bootcamp de Programación y AWS Cloud with Factoria F5.
 
 
 🛠 Skills:
