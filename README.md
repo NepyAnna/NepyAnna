@@ -13,3 +13,5 @@ Let's do it!
 
 🔗  Connect with me:
 
+<a href='https://www.linkedin.com/in/anna-nepyivoda-18428399/'><img src="https://i.postimg.cc/3RLmssnH/linkedin-3.png" alt="linkedin icon" width="30" height="30"></a>
+
