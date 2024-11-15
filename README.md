@@ -8,7 +8,7 @@ I am participating in the Bootcamp de Programación y AWS Cloud with Factoria F5
 
 🛠 Skills:
 
-[![My Skills](https://skillicons.dev/icons?i=swift,python,sql,java,js,html,css,figma,git,github,xcode,pycharm, vscode,jira,)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=swift,python,sql,java,js,html,css,figma,git,github,xcode,vscode,jira,)](https://skillicons.dev)
 
 
 
