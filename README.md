@@ -3,7 +3,7 @@ Hello! Hola! Добридень!
 Welcome to my page!
 
 🚀 About Me: 
-I'm Anna, beginer in development, currently living in Spain.
+I'm Anna, currently living in Spain.
 I am participating in the Bootcamp de Programación y AWS Cloud with Factoria F5.
 
 🛠 Skills:
