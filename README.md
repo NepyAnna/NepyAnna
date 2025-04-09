@@ -7,7 +7,7 @@ I'm Anna, currently participating in the Bootcamp de Programación y AWS Cloud w
 
 🛠 Skills:
 
-[![My Skills](https://skillicons.dev/icons?i=java,js,html,css,swift,python,figma,git,github,vscode,jira,docker)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,js,html,css,swift,python,figma,git,github,vscode,docker,aws)](https://skillicons.dev)
 
 
 
