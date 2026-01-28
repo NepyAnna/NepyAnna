@@ -1,9 +1,12 @@
-Hello! Hola! Добридень!
+Hello!
 
 Welcome to my page!
 
-🚀 About Me: 
-I'm Anna, currently participating in the Bootcamp de Programación y AWS Cloud with Factoria F5.
+💻 About Me:
+
+Software Developer focused on Java, Spring Boot & Cloud.
+Not limited to one stack — I enjoy exploring other languages  
+and tools and gradually leveling up my DevOps skills.
 
 🛠 Skills:
 
